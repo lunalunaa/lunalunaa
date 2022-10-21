@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on the Aya Proof Assistant
 - 💬 Ask me about dependent types and proof assistants
 - 📫 How to reach me: luna.xin@outlook.com
-- 😄 Pronouns: she/they
+- 🏳️‍⚧️ Pronouns: she/they
 
 <!--
 **lunalunaa/lunalunaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
