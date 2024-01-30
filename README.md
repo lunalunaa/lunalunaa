@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the Aya Proof Assistant
 - 💬 Ask me about dependent types and proof assistants
 - 📫 How to reach me: luna.xin@outlook.com
 - 🏳️‍⚧️ Pronouns: she/they
