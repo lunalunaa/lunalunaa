@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Luna. My pronouns are they/them
+### Hi there 👋 I'm Luna.
 
 - 💬 Ask me about dependent types and proof assistants
 - 📫 How to reach me: luna.xin@outlook.com
